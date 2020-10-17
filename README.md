@@ -1,2 +1,2 @@
 # new--repo
-just started
+just geting started
